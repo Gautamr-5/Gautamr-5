@@ -23,7 +23,7 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/gautam_r5?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
