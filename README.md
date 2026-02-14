@@ -1,6 +1,6 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Competitive+Programmer;DSA+%7C+Fundamentals+%7C+Full+Stack+Development;C%2B%2B+%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Competitive+Programmer;DSA+%7C+Fundamentals+%7C+Full+Stack+Development" />
 </p>
 
 ---
