@@ -1,6 +1,6 @@
 <!-- ================= TYPING SVG ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Competitive+Programmer;DSA+%7C+System+Design+Fundamentals+%7C+Full+Stack+Development;C%2B%2B+%7C+Java+%7C+JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Competitive+Programmer;DSA+%7C+Fundamentals+%7C+Full+Stack+Development;C%2B%2B+%7C+Java+%7C+JavaScript" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 I’m **Gautam Raj**, a software developer and competitive programmer, currently pursuing **B.Tech in Electrical Engineering** at **NIT Patna (2023–27)**.
 
-I enjoy working on **data structures, algorithms, system design fundamentals**, and building clean, scalable software projects.
+I enjoy working on **data structures, algorithms,and problem solving **, and building clean, scalable software projects.
 
 ---
 
@@ -29,8 +29,9 @@ I enjoy working on **data structures, algorithms, system design fundamentals**, 
 ## 🧠 Competitive Programming
 
 - Solved **700+ DSA & CP problems**
-- **1600+ LeetCode Rating**
+- **1700+ LeetCode Rating**
 - ⭐ **2★ CodeChef**
+- 1000+ on Codeforces
 - Strong in **Arrays, Trees, Graphs, DP, Greedy, Binary Search**
 
 ---
@@ -54,7 +55,7 @@ I enjoy working on **data structures, algorithms, system design fundamentals**, 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,nodejs,mongodb,python" />
 </p>
 
 ---
@@ -90,9 +91,9 @@ I enjoy working on **data structures, algorithms, system design fundamentals**, 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/prathamraj2411/
-- 📧 Email: prathamraj2411@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/gautamraj5/
+- 📧 Email: gautamprimary5@gmail.com
 
 ---
 
-> *Strong fundamentals and consistency matter most.*
+> *NON DESISTAS,NON EXIERIS!!*
