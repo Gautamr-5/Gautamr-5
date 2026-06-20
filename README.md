@@ -62,14 +62,12 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 
 ## 🚀 Projects
 
-### 📘 StudySync — Study Management Platform
-- Built a modular frontend with clean state handling  
-- Implemented persistent storage for schedules and notes  
-- Focused on performance and maintainability  
+### 📘 NIT Patna Market
+- Built a full-stack campus marketplace enabling secure peer-to-peer student buying and selling with user authentication
+- Developed RESTful APIs for product listings, advanced search, and seller dashboard management
+- Integrated real-time chat with unread notifications and secure image uploads using Multer and MongoDB
 
-**Tech:** Next.js • Tailwind CSS • SQLite  
-
----
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
 ### 🗂️ TaskPilot — Task Tracking System
 - Developed reusable UI components  
