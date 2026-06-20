@@ -28,8 +28,8 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 
 ## 🧠 Competitive Programming
 
-- Solved **700+ DSA & CP problems**
-- **1700+ LeetCode Rating**
+- Solved **1000+ DSA & CP problems**
+- **1800+ LeetCode Rating**
 - ⭐ **2★ CodeChef**
 - 1000+ on Codeforces
 - Strong in **Arrays, Trees, Graphs, DP, Greedy, Binary Search**
