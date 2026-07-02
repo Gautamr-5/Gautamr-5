@@ -69,13 +69,10 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
-### 🗂️ TaskPilot — Task Tracking System
-- Developed reusable UI components  
-- Added priority-based task management  
-- Optimized rendering performance  
-
-**Tech:** React • Tailwind • Zustand  
-
+OS Scheduling Simulator | C++17, Next.js, React, TypeScript, Tailwind CSS
+Built a full-stack CPU Scheduling Simulator with a modular C++17 backend and Next.js frontend.
+Implemented 8 CPU scheduling algorithms with real-time scheduling metrics and interactive Gantt chart visualization.
+Designed a scalable object-oriented architecture with Google Test-based unit testing and CMake build automation.
 ---
 
 ### 🧾 QuickBill — Invoice Management System
