@@ -63,14 +63,6 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 ## 🚀 Projects
 
 ### 📘 NIT Patna Market
-- Built a full-stack campus marketplace enabling secure peer-to-peer student buying and selling with user authentication
-- Developed RESTful APIs for product listings, advanced search, and seller dashboard management
-- Integrated real-time chat with unread notifications and secure image uploads using Multer and MongoDB
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-## 🚀 Projects
-
-### 📘 NIT Patna Market
 - Built a full-stack campus marketplace enabling secure peer-to-peer student buying and selling with user authentication.
 - Developed RESTful APIs for product listings, advanced search, and seller dashboard management.
 - Integrated real-time chat with unread notifications and secure image uploads using Multer and MongoDB.
