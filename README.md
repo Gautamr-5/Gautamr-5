@@ -68,19 +68,23 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 - Integrated real-time chat with unread notifications and secure image uploads using Multer and MongoDB
 
 **Tech:** React.js • Node.js • Express.js • MongoDB
+## 🚀 Projects
 
-OS Scheduling Simulator | C++17, Next.js, React, TypeScript, Tailwind CSS
-Built a full-stack CPU Scheduling Simulator with a modular C++17 backend and Next.js frontend.
-Implemented 8 CPU scheduling algorithms with real-time scheduling metrics and interactive Gantt chart visualization.
-Designed a scalable object-oriented architecture with Google Test-based unit testing and CMake build automation.
+### 📘 NIT Patna Market
+- Built a full-stack campus marketplace enabling secure peer-to-peer student buying and selling with user authentication.
+- Developed RESTful APIs for product listings, advanced search, and seller dashboard management.
+- Integrated real-time chat with unread notifications and secure image uploads using Multer and MongoDB.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
 ---
 
-### 🧾 QuickBill — Invoice Management System
-- Designed REST APIs for invoices & expenses  
-- Integrated database + PDF generation  
-- Followed clean backend architecture  
+### 💻 OS Scheduling Simulator
+- Built a full-stack CPU Scheduling Simulator with a modular **C++17** backend and **Next.js** frontend.
+- Implemented **8 CPU scheduling algorithms** with real-time scheduling metrics and interactive Gantt chart visualization.
+- Designed a scalable object-oriented architecture with **Google Test**-based unit testing and **CMake** build automation.
 
-**Tech:** Node.js • Express • MongoDB • React  
+**Tech:** C++17 • Next.js • React • TypeScript • Tailwind CSS • Google Test • CMake
 
 ---
 
