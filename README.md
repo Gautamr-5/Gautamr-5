@@ -9,7 +9,7 @@
 
 I’m **Gautam Raj**, a software developer and competitive programmer, currently pursuing **B.Tech in Electrical Engineering** at **NIT Patna (2023–27)**.
 
-I enjoy working on **data structures, algorithms,and problem solving **, and building clean, scalable software projects.
+I enjoy working on **data structures, algorithms, and problem solving**, and building clean, scalable software projects.
 
 ---
 
@@ -29,9 +29,9 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 ## 🧠 Competitive Programming
 
 - Solved **1000+ DSA & CP problems**
-- **1800+ LeetCode Rating**
+- **1850+ LeetCode Rating**
 - ⭐ **2★ CodeChef**
-- 1000+ on Codeforces
+- pupil on Codeforces
 - Strong in **Arrays, Trees, Graphs, DP, Greedy, Binary Search**
 
 ---
@@ -80,6 +80,15 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 
 ---
 
+### 🔍 Deep Packet Inspection (DPI) Engine
+- Built a high-performance C++ network traffic analyzer capable of parsing PCAP files and extracting Server Name Indication (SNI) from TLS/HTTPS handshakes.
+- Implemented a highly scalable multi-threaded architecture using a Load Balancer, Fast Paths, thread-safe queues, and consistent hashing for lock-free flow tracking.
+- Developed real-time traffic classification and blocking mechanisms to filter network packets based on configurable rules and application types.
+
+**Tech:** C++17 • TCP/IP Networking • Multi-threading • PCAP Processing
+
+---
+
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gautamraj5/
@@ -87,4 +96,4 @@ I enjoy working on **data structures, algorithms,and problem solving **, and bui
 
 ---
 
-> *NON DESISTAS,NON EXIERIS!!*
+> *NON DESISTAS, NON EXIERIS!!*
